@@ -59,7 +59,7 @@ The window is rendered "invisible" to the Windows Focus Manager:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/virtual-keyboard.git
+    git clone https://github.com/Tcode-Motion/virtual-keyboard.git
     cd virtual-keyboard
     ```
 
@@ -95,3 +95,4 @@ Feel free to fork this project and submit PRs. Technical improvements to the ges
 
 ---
 *Designed for the future of spatial computing.*
+
